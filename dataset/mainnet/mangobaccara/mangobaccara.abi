@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "resolvebet", "ricardian_contract": "", "type": "resolvebet"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "bettor", "type": "name"}, {"name": "payout", "type": "uint64"}], "name": "resolvebet"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "receivetoken", "ricardian_contract": "", "type": "receivetoken"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [], "name": "receivetoken"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

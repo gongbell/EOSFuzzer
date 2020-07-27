@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "agent", "ricardian_contract": "", "type": "agent"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "from", "type": "name"}, {"name": "to", "type": "name"}, {"name": "quantity", "type": "asset"}], "name": "agent"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "notarize", "ricardian_contract": "", "type": "notarize"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "hash", "type": "string"}, {"name": "memo", "type": "string"}], "name": "notarize"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

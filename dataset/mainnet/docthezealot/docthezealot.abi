@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "proclaim", "ricardian_contract": "", "type": "proclaim"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "proclamation", "type": "string"}], "name": "proclaim"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

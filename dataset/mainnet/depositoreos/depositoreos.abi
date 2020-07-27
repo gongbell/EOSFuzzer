@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "deposit", "ricardian_contract": "", "type": "deposit"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "memo", "type": "string"}], "name": "deposit"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

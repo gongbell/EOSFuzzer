@@ -1,0 +1,1 @@
+{"version": "eosio::abi/1.1", "types": [], "structs": [{"name": "hi", "base": "", "fields": [{"name": "nm", "type": "name"}]}], "actions": [{"name": "hi", "type": "hi", "ricardian_contract": "Stub for hi action's ricardian contract"}], "tables": [], "ricardian_clauses": [], "error_messages": [], "abi_extensions": [], "variants": []}

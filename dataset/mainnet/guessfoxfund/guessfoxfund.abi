@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "setactive", "ricardian_contract": "", "type": "setactive"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "active", "type": "bool"}], "name": "setactive"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

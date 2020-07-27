@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "whitelist", "ricardian_contract": "Stub for whitelist action's ricardian contract", "type": "whitelist"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "contract", "type": "name"}], "name": "whitelist"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "replacebet", "ricardian_contract": "", "type": "replacebet"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "from", "type": "name"}, {"name": "quantity", "type": "asset"}], "name": "replacebet"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

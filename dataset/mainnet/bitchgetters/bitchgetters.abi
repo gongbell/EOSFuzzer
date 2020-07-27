@@ -1,0 +1,1 @@
+{"version": "eosio::abi/1.1", "types": [], "structs": [{"name": "transfer", "base": "", "fields": [{"name": "to", "type": "name"}, {"name": "memo", "type": "string"}]}], "actions": [{"name": "transfer", "type": "transfer", "ricardian_contract": ""}], "tables": [], "ricardian_clauses": [], "error_messages": [], "abi_extensions": [], "variants": []}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "fivefreebet", "ricardian_contract": "", "type": "fivefreebet"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "ezeosacct_key", "type": "string"}], "name": "fivefreebet"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

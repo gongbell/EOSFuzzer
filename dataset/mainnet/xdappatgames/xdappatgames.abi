@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "fairness", "ricardian_contract": "", "type": "fairness"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "game_id", "type": "string"}, {"name": "game_hash", "type": "string"}], "name": "fairness"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

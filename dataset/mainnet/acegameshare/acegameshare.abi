@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "share", "ricardian_contract": "", "type": "share"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "usr", "type": "name"}, {"name": "memo", "type": "string"}], "name": "share"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

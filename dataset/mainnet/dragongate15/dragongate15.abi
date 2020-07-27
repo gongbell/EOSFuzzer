@@ -1,0 +1,1 @@
+{"version": "eosio::abi/1.1", "types": [], "structs": [{"name": "testseeda", "base": "", "fields": [{"name": "seed1", "type": "checksum256"}, {"name": "seed2", "type": "checksum256"}]}], "actions": [{"name": "testseeda", "type": "testseeda", "ricardian_contract": ""}], "tables": [], "ricardian_clauses": [], "error_messages": [], "abi_extensions": [], "variants": []}

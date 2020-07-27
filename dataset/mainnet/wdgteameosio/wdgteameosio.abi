@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "balance", "type": "asset"}], "name": "account"}], "tables": [{"index_type": "i64", "key_names": [], "key_types": [], "name": "accounts", "type": "account"}], "types": [], "variants": [], "version": "eosio::abi/1.0"}

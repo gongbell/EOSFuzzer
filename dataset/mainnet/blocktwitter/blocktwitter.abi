@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "tweet", "ricardian_contract": "", "type": "tweet"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "message", "type": "string"}], "name": "tweet"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

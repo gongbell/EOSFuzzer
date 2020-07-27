@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "ondice", "ricardian_contract": "", "type": "ondice"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "player", "type": "name"}, {"name": "quantity", "type": "asset"}], "name": "ondice"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

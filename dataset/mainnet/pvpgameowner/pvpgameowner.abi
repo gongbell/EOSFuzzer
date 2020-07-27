@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "notifyresult", "ricardian_contract": "", "type": "notifyresult"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "user", "type": "name"}, {"name": "msg", "type": "string"}], "name": "notifyresult"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

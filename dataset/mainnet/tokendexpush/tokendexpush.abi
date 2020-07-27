@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "airdrop", "ricardian_contract": "", "type": "airdrop"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "to", "type": "name"}, {"name": "message", "type": "string"}], "name": "airdrop"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

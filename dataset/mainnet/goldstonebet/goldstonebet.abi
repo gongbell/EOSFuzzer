@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "reportgsid", "ricardian_contract": "", "type": "reportgsid"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "gsid", "type": "string"}], "name": "reportgsid"}], "tables": [], "types": [{"new_type_name": "account_name", "type": "name"}], "variants": [], "version": "eosio::abi/1.0"}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "bonus", "ricardian_contract": "", "type": "bonus"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "to", "type": "name"}, {"name": "quantity", "type": "asset"}, {"name": "memo", "type": "string"}], "name": "bonus"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

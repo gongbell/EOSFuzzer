@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "addrelate", "ricardian_contract": "", "type": "addrelate"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "account", "type": "name"}, {"name": "teacher_account", "type": "name"}], "name": "addrelate"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

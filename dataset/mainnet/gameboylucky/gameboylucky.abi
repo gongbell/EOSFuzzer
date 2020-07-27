@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "enjoygame", "ricardian_contract": "", "type": "enjoygame"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "player", "type": "name"}, {"name": "memo", "type": "string"}], "name": "enjoygame"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

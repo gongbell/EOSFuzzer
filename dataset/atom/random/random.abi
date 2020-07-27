@@ -1,0 +1,77 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT Tue Oct 15 23:56:16 2019",
+    "version": "eosio::abi/1.0",
+    "structs": [
+        {
+            "name": "getnow",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "hello",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "maybe",
+            "base": "",
+            "fields": [
+                {
+                    "name": "b",
+                    "type": "bool"
+                }
+            ]
+        },
+        {
+            "name": "num",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "prefix",
+            "base": "",
+            "fields": []
+        },
+        {
+            "name": "token",
+            "base": "",
+            "fields": []
+        }
+    ],
+    "types": [],
+    "actions": [
+        {
+            "name": "getnow",
+            "type": "getnow",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "hello",
+            "type": "hello",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "maybe",
+            "type": "maybe",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "num",
+            "type": "num",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "prefix",
+            "type": "prefix",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "token",
+            "type": "token",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [],
+    "ricardian_clauses": [],
+    "abi_extensions": []
+}

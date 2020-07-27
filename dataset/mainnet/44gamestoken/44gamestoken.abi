@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "clear", "ricardian_contract": "", "type": "clear"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "memo", "type": "string"}], "name": "clear"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

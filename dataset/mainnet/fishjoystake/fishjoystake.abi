@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "a", "ricardian_contract": "", "type": "a"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "user", "type": "name"}], "name": "a"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

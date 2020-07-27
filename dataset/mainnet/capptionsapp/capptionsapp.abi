@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "moor", "ricardian_contract": "", "type": "moor"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "hash", "type": "string"}], "name": "moor"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

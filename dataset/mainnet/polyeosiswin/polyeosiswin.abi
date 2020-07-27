@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "cancelorder", "ricardian_contract": "", "type": "cancelorder"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "user", "type": "name"}, {"name": "transaction_id", "type": "string"}], "name": "cancelorder"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.1"}

@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "spaceinvader", "ricardian_contract": "", "type": "spaceinvader"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "move", "type": "uint8"}], "name": "spaceinvader"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}

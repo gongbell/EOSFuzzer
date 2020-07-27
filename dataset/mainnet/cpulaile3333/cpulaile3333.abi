@@ -1,0 +1,1 @@
+{"abi_extensions": [], "actions": [{"name": "cpu", "ricardian_contract": "", "type": "cpu"}], "error_messages": [], "ricardian_clauses": [], "structs": [{"base": "", "fields": [{"name": "memo", "type": "string"}, {"name": "to", "type": "name"}], "name": "cpu"}], "tables": [], "types": [], "variants": [], "version": "eosio::abi/1.0"}
