@@ -10,10 +10,12 @@ docker run -it eosfuzzer /bin/bash
 ```
 
 To prepare a dataset, put the contracts in `~/EOSFuzzer/dataset/contracts`. Let's assume the contract is called `mycontract`, then it's like:
-~/EOSFuzzer/dataset/contracts  
-|-mycontract  
-..|-mycontract.wasm  
-..|-mycontract.abi  
+```
+~/EOSFuzzer/dataset/contracts
+|-mycontract
+  |-mycontract.wasm
+  |-mycontract.abi
+```
 
 If you want to use the default dataset with source code:
 ```
