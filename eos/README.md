@@ -1,4 +1,7 @@
-```eos The patch with EOSFuzzer for a specific version of eos
+# eos
+
+```
+eos The patch with EOSFuzzer for a specific version of eos
 |- contracts
    |- eosio.token The instrumented contract of EOS token
    |- eosiolib Including a function to log in contracts
