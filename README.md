@@ -36,16 +36,24 @@ The file of results is:
 ~/EOSFuzzer/dataset/analyze.txt
 ```
 
-Settings of EOSFuzzer:
+If you need to re-generate the file above, edit `~/EOSFuzzer/dataset/fuzz.py` to call the `analyze` function.
+
+Settings to run EOSFuzzer:
 ```
 ~/EOSFuzzer/dataset/setting.py
 ```
 
+If you need to change settings, the comments in the file could help you.
+
 ## Folders
+
+### agents
+
+The folder includes agent contracts.
 
 ### dataset
 
-This folder includes agent contracts, sample contracts and a fuzzing script.
+This folder includes agent sample contracts and a fuzzing script.
 
 ### eos
 
@@ -56,3 +64,8 @@ https://github.com/EOSIO/eos/tree/ced8d7db063371aabe8deadb4120767a1d2406a0
 
 This folder is a patch for a specific version of eosio.cdt.
 https://github.com/EOSIO/eosio.cdt/commit/6ee842b07a6860b912344806d05a4d7f3bd8e27c
+
+## Where is EOSFuzzer?
+
+In `~/eos`, merged with original files of eos.
+To compile, execute `./eosio_build.sh -o Debug`.
