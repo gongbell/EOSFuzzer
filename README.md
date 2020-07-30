@@ -3,7 +3,9 @@ A fuzzer for vulnerability detection of EOSIO smart contracts.
 
 ## Quick Start
 
-Import docker (named `eosfuzzer.docker.tar`) then run its terminal:
+Docker: https://bhpan.buaa.edu.cn:443/link/29BAE68A00D1C1EA1AC28FB348DE1989
+
+Import docker (if named `eosfuzzer.docker.tar`) then run its terminal:
 ```
 docker import eosfuzzer.docker.tar eosfuzzer
 docker run -it eosfuzzer /bin/bash
@@ -45,6 +47,12 @@ Settings to run EOSFuzzer:
 
 If you need to change settings, the comments in the file could help you.
 
+To compile, make sure the version of `libssl-dev` is `1.1.0g-2ubuntu4`, then execute:
+```
+cd ~/EOSFuzzer/eos
+./eosio_build.sh -o Debug
+```
+
 ## Folders
 
 ### agents
@@ -58,14 +66,15 @@ This folder includes agent sample contracts and a fuzzing script.
 ### eos
 
 This folder is a patch with EOSFuzzer for a specific version of eos.
+
 https://github.com/EOSIO/eos/tree/ced8d7db063371aabe8deadb4120767a1d2406a0
 
 ### eosio.cdt
 
 This folder is a patch for a specific version of eosio.cdt.
+
 https://github.com/EOSIO/eosio.cdt/commit/6ee842b07a6860b912344806d05a4d7f3bd8e27c
 
 ## Where is EOSFuzzer?
 
-In `~/eos`, merged with original files of eos.
-To compile, execute `./eosio_build.sh -o Debug`.
+In `~/eos`, should be merged with original files of eos.
