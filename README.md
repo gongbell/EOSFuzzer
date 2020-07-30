@@ -25,7 +25,7 @@ cd ~/EOSFuzzer/dataset
 mv source contracts
 ```
 
-Run EOSFuzzer:
+Run EOSFuzzer with dataset:
 ```
 cd ~/EOSFuzzer/dataset
 rm -rf articles/*
@@ -57,7 +57,7 @@ cd ~/EOSFuzzer/eos
 
 ### agents
 
-The folder includes agent contracts.
+This folder includes agent contracts.
 
 ### dataset
 
@@ -71,10 +71,12 @@ https://github.com/EOSIO/eos/tree/ced8d7db063371aabe8deadb4120767a1d2406a0
 
 ### eosio.cdt
 
-This folder is a patch for a specific version of eosio.cdt.
+This folder is a patch for a specific version of eosio.cdt. This patch adds a function to log in a file.
 
 https://github.com/EOSIO/eosio.cdt/commit/6ee842b07a6860b912344806d05a4d7f3bd8e27c
 
 ## Where is EOSFuzzer?
 
-In `~/eos`, should be merged with original files of eos.
+In `~/eos`, should be merged with original files of eos. Those files are listed here:
+
+https://github.com/gongbell/EOSFuzzer/tree/master/eos
