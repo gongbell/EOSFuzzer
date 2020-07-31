@@ -1,6 +1,16 @@
 # EOSFuzzer
 A fuzzer for vulnerability detection of EOSIO smart contracts.
 
+For technical details, please also check our paper at arxiv: 
+
+https://arxiv.org/abs/2007.14903 
+
+EOSFuzzer: Fuzzing EOSIO Smart Contracts for Vulnerability Detection
+
+by Yuhe Huang, Bo Jiang, W.K. Chan
+
+Contact Dr. Bo Jiang (gongbell@gmail.com) if you have any questions.
+
 ## Quick Start
 
 Docker: https://bhpan.buaa.edu.cn:443/link/29BAE68A00D1C1EA1AC28FB348DE1989
