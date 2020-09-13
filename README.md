@@ -13,7 +13,8 @@ Contact Dr. Bo Jiang (gongbell@gmail.com) if you have any questions.
 
 ## Quick Start
 
-Docker: https://bhpan.buaa.edu.cn:443/link/29BAE68A00D1C1EA1AC28FB348DE1989
+Docker: https://bhpan.buaa.edu.cn:443/link/F85BEF6261665FFCF48AA42FD49514C5
+
 
 Import docker (if named `eosfuzzer.docker.tar`) then run its terminal:
 ```
